@@ -48,6 +48,9 @@ python main.py --files stats1.csv stats2.csv
 - `requirements.txt` — список необходимых библиотек (tabulate, pytest).
 - `stats1.csv`, `stats2.csv` — примеры файлов со статистикой для анализа. 
 
+## Предварительный просмотр результатов
+![Project Result](result.png)
+
 # Требования
 
 Python 3.10 или выше.
@@ -103,6 +106,9 @@ The project includes unit tests to verify the filtering logic. The tests cover b
 - `start.bat` — script to automate dependency checks and execution.
 - `requirements.txt` — list of required libraries (tabulate, pytest).
 - `stats1.csv`, `stats2.csv` — sample data files for analysis.
+
+## Result Preview
+![Project Result](result.png)
 
 # Requirements
 
